@@ -14,4 +14,4 @@ This project utilizes the Spotify API and employs the use of pandas and Sci-kit 
 * Receive a list of recommended songs based on your individual music taste
 
 # Credits
-This project was created by Mr. Sahil Chaudhary as part of a personal Project Exhibition II. The project utilizes the Spotify API and employs the use of pandas and Sci-kit.
+This project was created by Mr. Sahil Chaudhary as part of a Project Exhibition II along with his team members. The project utilizes the Spotify API and employs the use of pandas and Sci-kit.
